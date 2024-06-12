@@ -1,1 +1,1 @@
-# NewRepo2
+is simple to use 
